@@ -1,0 +1,43 @@
+{
+ "mssv": "202603267",
+ "ten": "BachSyNui",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "nuibach1007",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000027565.jpg",
+  "000000164659.jpg",
+  "000000294379.jpg",
+  "000000308257.jpg",
+  "000000399983.jpg",
+  "000000179201.jpg",
+  "000000183176.jpg",
+  "000000302102.jpg",
+  "000000043719.jpg",
+  "000000461002.jpg",
+  "000000269462.jpg",
+  "000000272026.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_145751.jpg",
+  "face_469647.jpg",
+  "face_476363.jpg",
+  "face_505385.jpg",
+  "face_504911.jpg",
+  "face_255797.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 8,
+   "job_id": 7,
+   "task_name": "persons-BachSyNui"
+  },
+  "faces": {
+   "task_id": 9,
+   "job_id": 8,
+   "task_name": "faces-BachSyNui"
+  }
+ }
+}
